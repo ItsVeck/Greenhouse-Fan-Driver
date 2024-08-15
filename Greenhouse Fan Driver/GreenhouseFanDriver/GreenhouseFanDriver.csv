@@ -1,0 +1,26 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description
+"C1, C2, C3, ",3,100uF,C_Polarized,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Polarized capacitor
+"C4, C5, C6, C7, ",4,100n,C,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Unpolarized capacitor
+"C8, ",1,100n C0G,C,Capacitor_SMD_Custom:C_1206_3216Metric_Custom,Unpolarized capacitor
+"D1, ",1,SS110B,D_Schottky,Diode_SMD:D_SMB,Schottky diode
+"J1, ",1,Fan/NTC,DIN-8,Connector_ODS_Custom:ODS_CCBPM08MCC,8-pin DIN connector
+"J2, ",1,Solar Panel,DIN-8,Connector_ODS_Custom:ODS_CCBPM08MCC,8-pin DIN connector
+"Q1, ",1,DMN6075S,DMN6075S,Package_TO_SOT_SMD_Custom:SOT-223_Custom_DiodesIncorporated,"2.5A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+"R1, ",1,68k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R2, R11, ",2,33k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+" R10, ",1,47k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R4, ",1,91k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R5, ",1,10k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+R3,1,68k,,,
+"R6, ",1,91k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R7, ",1,130k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R8, R13, ",2,220k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R9, ",1,2k,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"R12, ",1,20R,R,Capacitor_SMD_Custom:C_0805_2012Metric_Custom,Resistor
+"RV1, ",1,B100k,R_Potentiometer,Potentiometer_THT_Custom:Potentiometer_Trimmer_72PTR100KLF_Custom,Potentiometer
+"U1, ",1,LM393,LM393,Package_DIP:DIP-8_W7.62mm,"Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8"
+"Z1, ",1,1N4744A (15V),D_Zener,Package_TO_SOT_SMD:SOT-23,Zener diode

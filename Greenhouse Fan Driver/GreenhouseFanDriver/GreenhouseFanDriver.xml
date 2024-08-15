@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\oscar.walsh\Desktop\Greenhouse Fan Driver\GreenhouseFanDriver\GreenhouseFanDriver.kicad_sch</source>
+    <date>15/12/2023 4:39:54 PM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>GreenhouseFanDriver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e245598d-c3b4-481a-bc93-bedbc95af3de</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02195b0d-e539-41ba-9fa2-e90007ef09a4</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db484f00-4ba7-4130-8f9d-9153a7788020</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c0e7d0f-8242-496a-a0be-8b51e7b4b8d0</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f42c622-5e24-4f90-abb4-d4ab0a418db1</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfbaf1e2-6fd7-4114-895f-7c3ba1494b39</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff182eb9-a120-42db-9ee3-5e39cbc43d08</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n C0G</value>
+      <footprint>Capacitor_SMD_Custom:C_1206_3216Metric_Custom</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b75191c-80d9-4705-b714-214e82c4aa8d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS110B</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcbfb2ae-2f74-48d8-9749-f4041bc71add</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Fan/NTC</value>
+      <footprint>Connector_ODS_Custom:ODS_CCBPM08MCC</footprint>
+      <datasheet>http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf</datasheet>
+      <libsource lib="Connector" part="DIN-8" description="8-pin DIN connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="8-pin DIN connector"/>
+      <property name="ki_keywords" value="circular DIN connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9c93536-3506-4046-9bf9-1333844b044c</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Solar Panel</value>
+      <footprint>Connector_ODS_Custom:ODS_CCBPM08MCC</footprint>
+      <datasheet>http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf</datasheet>
+      <libsource lib="Connector" part="DIN-8" description="8-pin DIN connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="8-pin DIN connector"/>
+      <property name="ki_keywords" value="circular DIN connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43a8cc07-8a33-4018-8594-0d23e8f6ac7a</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMN6075S</value>
+      <footprint>Package_TO_SOT_SMD_Custom:SOT-223_Custom_DiodesIncorporated</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/115/DIODS20377_1-2541745.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="DMN6075S" description="2.5A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="2.5A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b2d7d94-edf7-4cbf-bde1-6877e32ee525</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>68k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9cea9c8-8be9-4bda-9f83-8261af0e5541</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>33k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbaeeb83-8b74-47b1-bffb-f6da238f9c29</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f287634-5203-4f39-85c5-bbb565813f44</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc35fe41-cca2-4594-9558-3b0658317f50</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>12k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cc27340-8ab6-4438-9e19-66e6787afc5d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>91k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>493f1d2a-522a-4ae8-8518-23db97e47af7</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>130k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be00d611-f9a2-48b4-9997-172d0b78d5a0</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>220k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f54e4ceb-9fe1-412b-85f1-411d294ad979</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>871e128f-b03a-4c6d-a6b3-002ab0b39da1</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>47k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4416b5ee-920f-49f2-b795-46ec75d3febd</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>33k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc494e36-808a-43c1-9ed9-525c7ddbcd91</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>20R</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8f1f0b7-e1b2-4ce5-94cb-a250ed29c54e</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>220k</value>
+      <footprint>Capacitor_SMD_Custom:C_0805_2012Metric_Custom</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>878d10a2-8edf-4fdf-8b81-bf02324e0e0a</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>B100k</value>
+      <footprint>Potentiometer_THT_Custom:Potentiometer_Trimmer_72PTR100KLF_Custom</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ebfff10-2e07-4d60-9811-6f1d1f9e69e9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM393</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm393.pdf</datasheet>
+      <libsource lib="Comparator" part="LM393" description="Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8"/>
+      <property name="ki_keywords" value="cmp open collector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4bad3f5-3897-448b-bb80-fc542bc97db8 59411fc5-d8a9-4243-a7d7-437ef48b5f2e 2c02426d-9223-4ccd-a128-4b4f02a2e3bd</tstamps>
+    </comp>
+    <comp ref="Z1">
+      <value>1N4744A (15V)</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GreenhouseFanDriver.kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3362ea06-df73-4d17-ada9-8bfdbd3244b6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Comparator" part="LM393">
+      <description>Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm393.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOP*5.28x5.23mm*P1.27mm*</fp>
+        <fp>VSSOP*3.0x3.0mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM393</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm393.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="open_collector"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="open_collector"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="DIN-8">
+      <description>8-pin DIN connector</description>
+      <docs>http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf</docs>
+      <footprints>
+        <fp>DIN*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DIN-8</field>
+        <field name="Datasheet">http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Z1</field>
+        <field name="Value">BZX84B18LT1G (18V)</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="DMN6075S">
+      <description>2.5A Id, 60V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>http://www.diodes.com/assets/Datasheets/DMN6075S.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMN6075S</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.diodes.com/assets/Datasheets/DMN6075S.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Comparator">
+      <uri>C:\KiCad Libraries\Official-KiCad-Libraries\kicad-symbols/Comparator.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\KiCad Libraries\Official-KiCad-Libraries\kicad-symbols/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\KiCad Libraries\Official-KiCad-Libraries\kicad-symbols/Device.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\KiCad Libraries\Official-KiCad-Libraries\kicad-symbols/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+SOL">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="/EN_V">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="3" name="/EN_Vref">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="4" name="/EN_sig">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="open_collector"/>
+      <node ref="U1" pin="7" pintype="open_collector"/>
+    </net>
+    <net code="5" name="/FAN-">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="6" name="/NTC-">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="7" name="/Temp_Vref">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="Z1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(Z1-K)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="Z1" pin="3" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(J1-Pad5)">
+      <node ref="J1" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(J2-Pad1)">
+      <node ref="J2" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(J2-Pad2)">
+      <node ref="J2" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(J2-Pad3)">
+      <node ref="J2" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(J2-Pad6)">
+      <node ref="J2" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(J2-Pad7)">
+      <node ref="J2" pin="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J2-Pad8)">
+      <node ref="J2" pin="8" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
